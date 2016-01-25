@@ -16,3 +16,4 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Creating a new branch is quick and simple.
 This is the new line for checking branch.
+This is checking bug & branch.
